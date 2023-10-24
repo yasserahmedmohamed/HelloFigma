@@ -8,6 +8,6 @@ class ExampleApp:Application() {
 
     override fun onCreate() {
         super.onCreate()
-        MailoTokens.setDealTokens()
+        MailoTokens.setTokens()
     }
 }

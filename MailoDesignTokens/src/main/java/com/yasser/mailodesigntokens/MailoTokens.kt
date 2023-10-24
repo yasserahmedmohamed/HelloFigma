@@ -6,7 +6,7 @@ import com.yasser.btdesignsystem.ComponentTokens
 
 object MailoTokens {
     private val tokens = ComponentColors(Color.Black, Color.Yellow)
-    fun setDealTokens(){
+    fun setTokens(){
         ComponentTokens.tokens = tokens
     }
 }
